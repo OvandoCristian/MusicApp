@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    font-family: Roboto;
+}
+
+.div-landing-content{
+    margin: 0;
+    width: 100%;
+}
+
+.container{
+    align-items: center;
+    height: 100vh;
+    background-image:url(../images/FondoLogin.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.container-text{
+   display: flex;
+   color: #FFFAFA;
+}
+
+button{
+    width: 20%;
+    color: #D9D9D9;
+    background-color: #00366C;
+}
+
